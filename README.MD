@@ -27,7 +27,7 @@
    git remote add URL_DEL_REPOl
 ```
 ```sh
-   git push origin main (o nombre de la rama actual)
+   git push -u origin main (o nombre de la rama actual)
 ```
 ### Guardar cambios en repositorios existentes
 ```sh
